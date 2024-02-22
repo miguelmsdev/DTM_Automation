@@ -3,7 +3,7 @@ This project automates the task of manually inputting info on the Debris Transpo
 
 The authorizations come in an A4 paper, which is scanned with a barcode scanner for its identification number, after having an Excel sheet with said authorizations you just run the program, you can let it deal with the receiving date so it puts the same date the authorization was issued, or you can modify the receiving date yourself, same thing for the information about drivers and plates.
 
-I've had up to a thousand papers coming a day, and it would usually take me about 11 seconds per DTM, this program does it in 1 second, which is 90% faster, turning what could be 3 hours of repetitive work into 10 min of monitoring the program doing it, that way I saved the company cost and time it would waste by assigning extra paid workforce.
+I've had up to a thousand papers coming a day, and it would usually take me about 11 seconds per DTM, this program does it in 1 second, which is 90% faster, turning what could be 3 hours of repetitive work into 18 min of monitoring the program doing it, that way I saved the company cost and time it would waste by assigning extra paid workforce.
 
 The project was written using Python, Selenium, and some small generic libraries,  took me around 5 days working part-time to build the logic and write the code, the same time it would take the code to pay for itself time-wise, and from there on to bring profit for the company and more free time for me to invent new solutions while being available for more brain-needed challenges.
 
